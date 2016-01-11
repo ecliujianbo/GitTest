@@ -25,4 +25,9 @@ public class MainActivity extends AppCompatActivity {
     public void toCompany(View view) {
         startActivity(new Intent(this, CompanyActivity.class));
     }
+
+    public void toHome(View view){
+
+    }
+
 }
